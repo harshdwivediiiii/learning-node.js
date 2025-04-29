@@ -71,3 +71,15 @@ function Average(a,b,c,d){
 }
 
 console.log(Average(5,7,9,10));
+
+module.exports ={
+    add,
+    subtract,
+    multiply,
+    divide,
+    power,
+    squareroot,
+    cuberoot,
+    Average
+          
+}
