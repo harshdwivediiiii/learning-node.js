@@ -39,3 +39,35 @@ function percentage (a,b) {
 }
 
 console.log(percentage(1,4));
+
+//power(exponentiation)
+
+function power(a,b) {
+    return a**b;
+}
+
+console.log(power(2,3));
+
+//Square root
+
+function squareroot(a){
+    return Math.sqrt(a);
+}
+
+console.log(squareroot(25));
+
+//Cube root
+
+function cuberoot(x){
+    return Math.cbrt(x)
+}
+
+console.log(cuberoot(64));
+
+//Average
+
+function Average(a,b,c,d){
+    return a+b+c+d/2;
+}
+
+console.log(Average(5,7,9,10));
