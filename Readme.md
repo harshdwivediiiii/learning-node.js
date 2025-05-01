@@ -1,6 +1,6 @@
 # Node.js Learning Journey 🚀
 
-This repository documents my journey of learning Node.js using the YouTube playlist created by [Piyush Garg Sir](https://www.youtube.com/@piyushgargdev)).
+This repository documents my journey of learning Node.js using the YouTube playlist created by [Piyush Garg Sir](https://www.youtube.com/@piyushgargdev)
 
 📺 **YouTube Playlist**  
 ➡️ [Node.js Full Course by Piyush Garg](https://www.youtube.com/watch?v=YazJFb_i4A0&list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo)
